@@ -1,0 +1,27 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+coverage/
+flutter_*.png
+.generated/
+.melos_tool/
+# IntelliJ related
+.idea/
+*.iml
+*.ipr
+*.iws
+# Visual Studio Code related
+.vscode/
+# macOS
+.DS_Store
+# Android/Gradle
+.gradle/
+/local.properties
+**/GeneratedPluginRegistrant.java
+# iOS
+**/Flutter/Generated.xcconfig
+**/Runner/GeneratedPluginRegistrant.*
+# Web
+**/generated_plugin_registrant.dart
